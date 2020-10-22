@@ -1,6 +1,6 @@
 ## project phant0m
 
-project phant0m is a one-way tool for sandbox escapes and public kernel executions! A very immense project by @jailed-dev-adnan [
+project phant0m is a one-way tool for sandbox escapes and public kernel executions! A very immense project by @jailed-dev-adnan [https://twitter.com/DeJailed]
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
