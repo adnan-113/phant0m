@@ -1,6 +1,6 @@
 ## project phant0m
 
-You can use the [editor on GitHub](https://github.com/adnan-113/phant0m/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+project phant0m is a one-way tool for sandbox escapes and public kernel executions! A very immense project by @jailed-dev-adnan [
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
